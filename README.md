@@ -77,3 +77,6 @@ object in a strict order such as :
       * C r,g,b
       * identifier: C
       * R,G,B colors in range [0,255]: 0, 255, 255
+  * If any misconfiguration of any kind is encountered in the file, the program
+must exit properly and return "Error\n" followed by an explicit error message
+of your choice.
