@@ -1,6 +1,17 @@
 # cub3D
 A “realistic” 3D graphical representation of the inside of a maze from a first person perspective, using the Ray-Casting principles.
 
+## How to launch:
+* make start
+
+or
+* make
+* ./cub3D information.cub
+
+to make a screenshot
+* make
+* ./cub3D information.cub --save
+
 ## Task
 * You must use the miniLibX. Either the version that is available on the operating
 system, or from its sources. If you choose to work with the sources, you will
