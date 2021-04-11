@@ -14,6 +14,10 @@ to make a screenshot
 * make
 * ./cub3D information.cub --save
 
+## How to play:
+* WASD - to move
+* left and right arrows - to rotate
+
 ## Task
 * You must use the miniLibX. Either the version that is available on the operating
 system, or from its sources. If you choose to work with the sources, you will
